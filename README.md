@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Anukriti!👋
 
 <!--
 **AnukritiSinghh/AnukritiSinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m interested in Robotics, Computer Vision and Navigation
+- I’m a Masters in Robotics Student at University Of Maryland.
+- You can reach me at [anukriti@umd.edu](anukriti@umd.edu)
