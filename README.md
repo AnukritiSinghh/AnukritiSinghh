@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Getting a summary like this is not hard
 
-<a href="https://www.linkedin.com/in/naitri-rajyaguru/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anukriti-singh-07583b142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 - Skills
 
