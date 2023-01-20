@@ -11,9 +11,9 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Robotic perception which includes scene understanding and navigation
-- 🌱 I’m currently learning the depth and breadth of the above areas.
-- 👯 I’m looking to collaborate on project on robotic decision-making and their explanations. 
-- 💬 Ask me about how deep learning models work and what are their limitations.
+- 🌱 I’m currently learning planning and navigation in robotics
+- 👯 I’m looking to collaborate on project on robotic perception 
+- 💬 Ask me about how deep learning models work in robotics and computer vision
 - 📫 How to reach me: Email me on anukriti@umd.edu 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Getting a summary like this is not hard
