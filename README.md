@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about how deep learning models work in robotics and computer vision
 - 📫 How to reach me: Email me on anukriti@umd.edu 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Getting a summary like this is not hard
+- ⚡ Fun fact: I love reading news from all around the world
 
 <a href="https://www.linkedin.com/in/anukriti-singh-07583b142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
