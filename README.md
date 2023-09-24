@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: QR codes were invented in Japan in 1994 for tracking automotive parts during the manufacturing process!
 
-<a href="https://www.linkedin.com/in/anukriti-singh-07583b142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!-- <a href="https://www.linkedin.com/in/anukriti-singh-07583b142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
  <!-- - Skills
 
